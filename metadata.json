@@ -1,0 +1,6 @@
+{
+  "name": "Путь Инвестора: Интерактивная Дорожная карта",
+  "description": "Интерактивная дорожная карта и инвестиционный манифест от Криптоклуба 'CryptoInDex' с ИИ-наставником Знайкой CryptoInDex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
